@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns:fr 3fr 1fr;
+    grid-template-rows: 40px 300px;
+    grid-gap: 3px;
+                }
+.navbar{
+    grid-column-start: 2;
+    grid-column-end: 4
+}
+.left{grid-column-start: 1;
+    float:right;
+    /* align-content:; } */

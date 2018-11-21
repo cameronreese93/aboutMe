@@ -1,0 +1,32 @@
+.header{
+    font-family: 'Alfa Slab One', cursive;
+    color: #185D6D;
+   
+
+}
+.navbar{
+    font-family: 'Alfa Slab One', cursive;
+    color: #185D6D;
+   
+    text-align: end
+
+}
+.aboutme{
+    font-family: 'Roboto', sans-serif;
+    font-size: 9pt;
+    color: #185D6D;
+    background-color: #EFD624;
+    line-height: 12pt;
+    padding: 10pt;
+    padding-top: 20pt;
+
+}
+.leftimage{
+    }
+
+.intro{
+    font-family: "Alfa Slab One", cursive;
+    font-size: 35px;
+    line-height: 42px
+}
+.link{color:#F0692A }
